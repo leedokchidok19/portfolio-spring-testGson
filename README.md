@@ -1,5 +1,4 @@
-# portfolio-gson-test
-Test Junit Gson 
+# Test Junit Gson 
 ---
 ### Junit을 이용한 json 데이터 처리 예제 코드 사용방법
 1. 프로젝트 import
